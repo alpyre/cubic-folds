@@ -1,0 +1,16 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Cubic Folds'
+      'submenu': [
+        { 'label': 'Fold/Unfold', 'command': 'cubic-folds:toggleFold-this' },
+        { 'type': 'separator' },
+        { 'label': 'Fold All', 'command': 'cubic-folds:fold-all' },
+        { 'label': 'Unfold All', 'command': 'cubic-folds:unfold-all' },
+        { 'type': 'separator' },
+        { 'label': 'Fold/Unfold All', 'command': 'cubic-folds:toggleFold-all' }
+      ]
+    ]
+  }
+]
