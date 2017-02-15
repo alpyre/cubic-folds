@@ -4,10 +4,12 @@
   "version": "0.0.0",
   "description": "CubicIDE style folds: ///",
   "keywords": [
+    "fold",
     "folds",
     "amiga",
     "amigaos",
     "golded",
+    "cubic",
     "cubicide"
   ],
   "engines": {
