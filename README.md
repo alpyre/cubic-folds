@@ -8,3 +8,5 @@ Folds all the text enclosed between the two fold markers :`///`
 | ------------- | -------------------------------------------------------------------------- |
 | `F12`         | **Fold/Unfold**     - Toggle the folding of the section at cursor position |
 | `ctrl + F12`  | **Fold/Unfold all** - Toggle the fold of all foldable sections             |
+
+![demo](https://i.imgsafe.org/3fa1adf105.gif)
