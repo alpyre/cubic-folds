@@ -1,7 +1,7 @@
 {
   "name": "cubic-folds",
   "main": "./lib/index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "CubicIDE style folds: ///",
   "keywords": [
     "fold",
@@ -16,8 +16,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/alpyre/cubic-folds.git"
+    "type": "git",
+    "url": "https://github.com/alpyre/cubic-folds.git"
   },
   "bugs": {
     "url": "https://github.com/alpyre/cubic-folds/issues"
